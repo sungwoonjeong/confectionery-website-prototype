@@ -165,4 +165,17 @@ footer {
     padding: 0;
   }
 
+    header li {
+      float: left;
+      width: 33.3333%;
+    }
+
+    header a {
+      display: block;
+      font-size: 1.125rem;
+      text-decoration: none;
+      padding: .4rem 0;
+    }
+
+
 }
