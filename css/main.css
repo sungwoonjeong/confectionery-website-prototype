@@ -48,3 +48,16 @@ header ul {
 .menu {
   position: relative;
 }
+
+section div {
+  display: inline-block;
+  margin: 0;
+  padding: .1em .75em;
+  background-color: #ccc;
+  border-radius: 4px;
+  color: #000;
+  text-decoration: none;
+  position: absolute;
+  left: 40%;
+  top: 40%;
+}
