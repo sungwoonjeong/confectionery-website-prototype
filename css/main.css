@@ -42,9 +42,13 @@ header ul {
    display: inline;
  }
 
- h2 {
+ header h2 {
    text-align: center;
  }
+
+.headline {
+  text-align: center;
+}
 
 .menu {
   position: relative;
