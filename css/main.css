@@ -59,13 +59,13 @@ section div {
   display: inline-block;
   margin: 0;
   padding: .1em .75em;
-  background-color: #ccc;
+  background-color: rgba(0, 0, 0, .5);
   border-radius: 4px;
   color: #000;
   text-decoration: none;
   position: absolute;
-  left: 40%;
-  top: 40%;
+  left: 42%;
+  bottom: 40%;
 }
 
 .cards div {
