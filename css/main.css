@@ -40,3 +40,7 @@ header ul {
  header li{
    display: inline;
  }
+
+ h2 {
+   text-align: center;
+ }
