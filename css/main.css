@@ -112,3 +112,17 @@ section div:hover {
   border-radius: 10px;
   text-align: left;
 }
+
+.more {
+  display: inline-block;
+  padding: .5em .75em;
+  background-color: #ccc;
+  border-radius: 4px;
+  color: #000;
+  text-decoration: none;
+}
+
+.more:hover {
+  background-color: #333;
+  color: #fff;
+}
