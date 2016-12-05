@@ -44,3 +44,7 @@ header ul {
  h2 {
    text-align: center;
  }
+
+.menu {
+  position: relative;
+}
