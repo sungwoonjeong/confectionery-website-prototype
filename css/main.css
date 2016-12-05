@@ -114,6 +114,10 @@ section div:hover {
   text-align: left;
 }
 
+.cards li:last-child {
+  display: none;
+}
+
 .more {
   display: inline-block;
   padding: .5em .75em;
