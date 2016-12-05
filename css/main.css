@@ -156,4 +156,13 @@ footer {
     text-align: center;
   }
 
+  nav {
+    text-align: center;
+    float: none;
+  }
+
+  nav ul {
+    padding: 0;
+  }
+
 }
