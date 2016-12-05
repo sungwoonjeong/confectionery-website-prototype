@@ -126,3 +126,8 @@ section div:hover {
   background-color: #333;
   color: #fff;
 }
+
+footer {
+  background-color: pink;
+  text-align: center;
+}
