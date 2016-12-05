@@ -39,13 +39,13 @@ header ul {
   display: inline;
 }
 
- header li {
-   display: inline;
- }
+header li {
+  display: inline;
+}
 
- header h2 {
-   text-align: center;
- }
+header h2 {
+  text-align: center;
+}
 
 .headline {
   text-align: center;
