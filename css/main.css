@@ -43,6 +43,14 @@ header li {
   display: inline;
 }
 
+header a {
+  margin: 0;
+  padding: .1em .75em;
+  background-color: pink;
+  text-decoration: none;
+  color: #fff;
+}
+
 header h2 {
   text-align: center;
 }
