@@ -62,3 +62,8 @@ section div {
   left: 40%;
   top: 40%;
 }
+
+section div:hover {
+  background-color: #333;
+  color: #fff;
+}
