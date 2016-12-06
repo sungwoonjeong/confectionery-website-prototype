@@ -188,4 +188,13 @@ footer {
     left: 35%;
     bottom: 33%;
   }
+
+  .cards li {
+    max-width: 10em;
+  }
+
+  .cards li:last-child {
+    display: inline-block;
+  }
+
 }
