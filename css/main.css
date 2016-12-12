@@ -180,13 +180,18 @@ footer {
     padding: 0;
   }
 
-  header li:nth-child(3) {
-    display: inline;
-  }
-
   header li {
     float: left;
     width: 25%;
+  }
+
+  .cards li {
+    max-width: 11em;
+    margin: 0;
+  }
+
+  header li:nth-child(3) {
+    display: inline;
   }
 
   header a {
@@ -206,11 +211,6 @@ footer {
     position: absolute;
     left: 35%;
     bottom: 33%;
-  }
-
-  .cards li {
-    max-width: 11em;
-    margin: 0;
   }
 
   .cards li:last-child {
