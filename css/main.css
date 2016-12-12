@@ -10,7 +10,7 @@ html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
   box-sizing: border-box;
-  background-color: #fff;
+  background-color: #fefcd0;
   font: normal 100%/1.3 Oswald, sans-serif;
 }
 
@@ -36,6 +36,10 @@ h1 {
   margin: 0 0 .5em;
 }
 
+header {
+  background-color: #94654c;
+}
+
 nav {
   display: inline;
   float: right;
@@ -58,8 +62,8 @@ header a {
   color: #fff;
 }
 
-header h2 {
-  text-align: center;
+header img {
+  margin: 0;
 }
 
 .headline {
