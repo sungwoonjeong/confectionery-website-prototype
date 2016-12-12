@@ -254,4 +254,11 @@ footer {
     line-height: 1.5;
   }
 
+  header nav li {
+    float: left;
+    width: 15%;
+  }
+
+
+
 }
