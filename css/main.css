@@ -309,4 +309,14 @@ footer {
     margin: 0 1em 1em;
   }
 
+  .new-body {
+    width: 60%;
+    display: inline-block;
+    text-align: left;
+  }
+  
+  .more {
+    text-align: left;
+  }
+
 }
