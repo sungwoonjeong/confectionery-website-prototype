@@ -28,9 +28,9 @@ img {
 }
 
 h1 {
-  font-family:'Yesteryear', cursive;
+  font-family: Yesteryear, cursive;
   display: inline;
-  max-width: 0.5em;
+  max-width: .5em;
   font-size: 1.3em;
   float: left;
   margin: 0 0 .5em;
