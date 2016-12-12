@@ -314,7 +314,15 @@ footer {
     display: inline-block;
     text-align: left;
   }
-  
+
+    .new-body h2 {
+      margin-top: 0;
+    }
+
+    .new-body p {
+      margin-top: 0;
+    }
+
   .more {
     text-align: left;
   }
