@@ -111,9 +111,9 @@ section div:hover {
 .cards a {
   display: inline-block;
   padding: .5em .75em;
-  background-color: #ccc;
+  background-color: #522720;
   border-radius: 4px;
-  color: #000;
+  color: #FFF;
   text-decoration: none;
 }
 
@@ -143,9 +143,9 @@ header li:nth-child(3) {
 .more a {
   display: inline-block;
   padding: .5em .75em;
-  background-color: #ccc;
+  background-color: #522720;
   border-radius: 4px;
-  color: #000;
+  color: #fff;
   text-decoration: none;
 }
 
