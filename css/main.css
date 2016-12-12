@@ -231,18 +231,18 @@ footer {
     width: 15%;
   }
 
-  header li:first-child {
-    margin: 0 0 0 20%;
-  }
-
   section div {
-    left: 40%;
-    bottom: 36%;
+    left: 43%;
+    bottom: 40%;
   }
 
   .cards li {
     max-width: 16em;
     margin: 0;
+  }
+
+  header li:first-child {
+    margin: 0 0 0 20%;
   }
 
 }
