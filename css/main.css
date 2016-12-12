@@ -236,13 +236,13 @@ footer {
     bottom: 36%;
   }
 
-  header li:first-child {
-    margin: 0 0 0 20%;
-  }
-
   .cards li {
     max-width: 16em;
     margin: 0;
+  }
+
+  header li:first-child {
+    margin: 0 0 0 20%;
   }
 
 }
