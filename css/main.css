@@ -50,10 +50,6 @@ header li {
   display: inline;
 }
 
-header li:nth-child(3) {
-  display: none;
-}
-
 header a {
   margin: 0;
   padding: .1em .75em;
@@ -135,6 +131,10 @@ header a:hover {
   border: 3px solid #e2e2e2;
   border-radius: 10px;
   text-align: left;
+}
+
+header li:nth-child(3) {
+  display: none;
 }
 
 .cards li:last-child {
