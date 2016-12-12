@@ -68,7 +68,6 @@ header img {
 
 .headline {
   text-align: center;
-  font-size: 3em;
 }
 
 .menu {
@@ -205,6 +204,11 @@ footer {
     font-size: 1.125rem;
     text-decoration: none;
     padding: .4rem 0;
+  }
+
+  .headline {
+    text-align: center;
+    font-size: 3em;
   }
 
   .menu {
