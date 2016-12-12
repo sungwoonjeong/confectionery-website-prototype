@@ -246,6 +246,7 @@ footer {
     max-width: none;
     text-align: center;
     float: none;
+    margin-bottom: 1em;
   }
 
   header nav li {
