@@ -49,6 +49,10 @@ header li {
   display: inline;
 }
 
+header li:nth-child(3) {
+  display: none;
+}
+
 header a {
   margin: 0;
   padding: .1em .75em;
@@ -160,6 +164,10 @@ footer {
   h1 {
     display: block;
     text-align: center;
+    float: none;
+    margin: 0;
+    font-size: 2em;
+    max-width: none;
   }
 
   nav {
