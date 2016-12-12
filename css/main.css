@@ -113,15 +113,6 @@ section div:hover {
   text-decoration: none;
 }
 
-header a:hover {
-  background-color: #f50057;
-}
-
-.cards a:hover {
-  background-color: #333;
-  color: #fff;
-}
-
 .cards li {
   display: inline-block;
   margin: 0 .5em 1em;
@@ -145,13 +136,22 @@ header li:nth-child(3) {
   display: none;
 }
 
-.more a{
+.more a {
   display: inline-block;
   padding: .5em .75em;
   background-color: #ccc;
   border-radius: 4px;
   color: #000;
   text-decoration: none;
+}
+
+header a:hover {
+  background-color: #f50057;
+}
+
+.cards a:hover {
+  background-color: #333;
+  color: #fff;
 }
 
 .more a:hover {
