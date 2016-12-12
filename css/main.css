@@ -219,11 +219,20 @@ footer {
 
 }
 
-@media only screen and (min-width: 38em)  {
+@media only screen and (min-width: 38em) {
 
   html {
     font-size: 110%;
     line-height: 1.4;
+  }
+  
+  header nav li {
+    float: left;
+    width: 15%;
+  }
+
+  header li:first-child {
+    margin: 0 0 0 20%;
   }
 
 }
