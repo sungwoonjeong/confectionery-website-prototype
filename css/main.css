@@ -163,12 +163,9 @@ footer {
 @media only screen and (min-width: 25em) {
 
   h1 {
-    display: block;
-    text-align: center;
-    float: none;
     margin: 0;
     font-size: 2em;
-    max-width: none;
+    max-width: 2em;
   }
 
   nav {
@@ -181,8 +178,8 @@ footer {
   }
 
   header li {
-    float: left;
-    width: 25%;
+    float: right;
+    width: 30%;
   }
 
   .cards li {
