@@ -145,7 +145,7 @@ header li:nth-child(3) {
   display: none;
 }
 
-.more {
+.more a{
   display: inline-block;
   padding: .5em .75em;
   background-color: #ccc;
@@ -154,7 +154,7 @@ header li:nth-child(3) {
   text-decoration: none;
 }
 
-.more:hover {
+.more a:hover {
   background-color: #333;
   color: #fff;
 }
@@ -253,6 +253,14 @@ footer {
     display: block;
     margin: auto;
     max-width: 10em;
+  }
+
+  .new-body {
+    text-align: center;
+  }
+
+  .more {
+    text-align: center;
   }
 
 }
