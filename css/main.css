@@ -254,6 +254,10 @@ footer {
     line-height: 1.5;
   }
 
+  h1 {
+    font-size: 3em;
+  }
+
   header nav li {
     float: left;
     width: 15%;
