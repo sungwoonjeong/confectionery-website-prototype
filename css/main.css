@@ -249,6 +249,11 @@ footer {
     margin: 0;
   }
 
+  .news li {
+    list-style: none;
+    margin: 1em;
+  }
+
   .news img {
     display: block;
     margin: auto;
