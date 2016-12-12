@@ -180,9 +180,13 @@ footer {
     padding: 0;
   }
 
+  header li:nth-child(3) {
+    display: inline;
+  }
+
   header li {
     float: left;
-    width: 33.3333%;
+    width: 25%;
   }
 
   header a {
