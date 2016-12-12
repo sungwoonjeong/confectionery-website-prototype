@@ -249,6 +249,12 @@ footer {
     margin: 0;
   }
 
+  .news img {
+    display: block;
+    margin: auto;
+    max-width: 10em;
+  }
+
 }
 
 @media only screen and (min-width: 60em) {
