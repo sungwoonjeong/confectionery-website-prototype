@@ -149,7 +149,7 @@ footer {
   text-align: center;
 }
 
-@media only screen and (min-width: 25em)  {
+@media only screen and (min-width: 25em) {
 
   h1 {
     display: block;
@@ -166,9 +166,9 @@ footer {
   }
 
   header li {
-      float: left;
-      width: 33.3333%;
-    }
+    float: left;
+    width: 33.3333%;
+  }
 
   header a {
     display: block;
@@ -177,7 +177,7 @@ footer {
     padding: .4rem 0;
   }
 
-  .menu  {
+  .menu {
     width: 50%;
     float: left;
     position: relative;
@@ -190,7 +190,7 @@ footer {
   }
 
   .cards li {
-    max-width: 12em;
+    max-width: 11em;
     margin: 0;
   }
 
