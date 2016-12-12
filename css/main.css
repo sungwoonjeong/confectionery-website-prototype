@@ -223,9 +223,16 @@ footer {
     line-height: 1.4;
   }
 
+  header h1 {
+    display: block;
+    max-width: none;
+    text-align: center;
+    float: none;
+  }
+
   header nav li {
     float: left;
-    width: 15%;
+    width: 25%;
   }
 
   section div {
@@ -238,8 +245,5 @@ footer {
     margin: 0;
   }
 
-  header li:first-child {
-    margin: 0 0 0 20%;
-  }
 
 }
